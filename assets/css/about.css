@@ -1,0 +1,36 @@
+.top{
+    float: left;
+    margin-left: 4%;
+    width: 20%;
+}
+blockquote p
+{
+    font-family: Bahnschrift;
+    font-size: large;
+    text-align: center;
+    line-height: 30px;
+}
+blockquote h3
+{
+    text-align: center;
+    margin-top: ;
+}
+.bottom
+{
+    float: right;
+    padding-bottom: -90px;
+}
+.btm-h
+{
+    margin-top: 50px;
+}
+p
+{
+    font-family: Bahnschrift;
+    font-size: large;
+    line-height: 30px;
+}
+.btm-h .btm-h2
+{
+    float: left;
+}

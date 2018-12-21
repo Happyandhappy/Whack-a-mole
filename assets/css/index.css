@@ -1,0 +1,96 @@
+
+img
+{
+    width: 100%;
+
+}
+
+.logindiv
+{
+    width: 30%;
+    float: left;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+
+.signupdiv
+{
+    float: right;
+    width: 50%;
+    alignment: center;
+    margin-top: 20%;
+    margin-right: 5%;
+}
+
+.register
+{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    font-family: "Tw Cen MT Condensed";
+    width:100%;
+    margin-left: 46%;
+    margin-bottom: 20px;
+}
+
+.login
+{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    width:100%;
+    font-family: "Tw Cen MT Condensed";
+    margin-left: 58%;
+    margin-bottom: 20px;
+    width:100%;
+}
+
+.lusername , .lpass
+{
+    width: 70%;
+    font-family: "Tw Cen MT Condensed";
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 30%;
+}
+.username , .pass
+{
+    width: 45%;
+    font-family: "Tw Cen MT Condensed";
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 30%;
+}
+.lbut
+{
+    box-shadow: none;
+    font-size: larger;
+    background-color: darkgrey;
+    border: none;
+    color: snow;
+    font-weight: bold;
+    height: 49px;
+    width: 65%;
+    margin-left: 33%;
+
+}
+
+.but
+{
+    box-shadow: none   ;
+    font-size: larger;
+    background-color: darkgrey;
+    border: none;
+    color: snow;
+    font-weight: bold;
+    height: 49px;
+    width: 40%;
+    margin-left: 33%;
+}
+
+
+

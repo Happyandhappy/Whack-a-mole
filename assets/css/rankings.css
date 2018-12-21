@@ -1,0 +1,40 @@
+table{
+    color: white;
+}
+th{
+    border-color: white;
+    text-align: center;
+    background-color: rosybrown;
+    width: 10%;
+}
+img
+{
+    width: 50%;
+    height: 75%;
+    margin-left: 50px;
+    margin-top: 5%;
+}
+table
+{
+    text-align: center;
+    float: left;
+    border-color: white;
+    border: none;
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+@media (max-width: 600px)
+{
+    .main
+    {
+        position: fixed;
+        margin-left: -100px;
+    }
+    th{
+        border-color: white;
+        text-align: center;
+        background-color: rosybrown;
+        width: 20%;
+    }
+}
